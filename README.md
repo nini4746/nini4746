@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nini4746)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nini4746)](https://github.com/nini4746/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nini4746)](https://github.com/nini4746/github-readme-stats)
 
 # INTRODUCTION
 안녕하세요. 영남대학교 컴퓨터공학과에 재학중인 박윤호입니다.  
