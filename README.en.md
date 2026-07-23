@@ -15,7 +15,7 @@ and I aim to become a backend / server programming developer.
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nini4746)](https://solved.ac/nini4746/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=nini4746)](https://solved.ac/nini4746/)
 [![yunhpark's 42 stats](https://badge.mediaplus.ma/darkblue/yunhpark)](https://github.com/JaeSeoKim/badge42)
 
 ## 💻 Tech stack
