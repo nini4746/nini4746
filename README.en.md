@@ -2,12 +2,12 @@
 
 [한국어](./README.md) | [English](./README.en.md)
 
-안녕하세요. 영남대학교 컴퓨터공학과를 졸업한(2026.02) 박윤호입니다.
-**42 Gyeongsan Cadet**으로서 C/C++ 시스템·네트워크 프로그래밍을 다지고 있으며,
-백엔드 및 서버 프로그래밍 개발자를 희망하고 있습니다.
+Hi, I'm Yunho Park. I graduated from Yeungnam University with a B.E. in Computer Engineering (Feb 2026).
+As a **42 Gyeongsan Cadet**, I'm sharpening C/C++ systems and network programming,
+and I aim to become a backend / server programming developer.
 
-- 🏆 KICS 2025 추계학술대회 논문 게재 (MagNavi - 지자기 실내 측위)
-- 🏆 2025 경상북도 캡스톤디자인 경진대회 우수상
+- 🏆 Published at KICS Fall Conference 2025 (MagNavi - geomagnetic indoor positioning)
+- 🏆 Excellence Award, 2025 Gyeongsangbuk-do Capstone Design Competition
 
 ## 📊 GitHub stats
 [![nini4746's GitHub stats](https://github-readme-stats.vercel.app/api?username=nini4746&show_icons=true&theme=radical)](https://github.com/nini4746)
