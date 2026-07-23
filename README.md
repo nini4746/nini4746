@@ -10,8 +10,8 @@
 - 🏆 2025 경상북도 캡스톤디자인 경진대회 우수상
 
 ## 📊 GitHub stats
-[![nini4746's GitHub stats](https://github-readme-stats.vercel.app/api?username=nini4746&show_icons=true&theme=radical)](https://github.com/nini4746)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nini4746&layout=compact&theme=radical)](https://github.com/nini4746)
+[![nini4746's GitHub stats](https://raw.githubusercontent.com/nini4746/github-stats/generated/overview.svg)](https://github.com/nini4746/github-stats)
+[![Top Langs](https://raw.githubusercontent.com/nini4746/github-stats/generated/languages.svg)](https://github.com/nini4746/github-stats)
 
 ---
 
