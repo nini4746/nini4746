@@ -7,7 +7,7 @@ As a **42 Gyeongsan Cadet**, I'm sharpening C/C++ systems and network programmin
 and I aim to become a backend / server programming developer.
 
 - 🏆 Published at KICS Fall Conference 2025 (MagNavi - geomagnetic indoor positioning)
-- 🏆 Excellence Award, 2025 Gyeongsangbuk-do Capstone Design Competition
+- 🏆 First Prize, 2025 Gyeongsangbuk-do Capstone Design Competition
 
 ## 📊 GitHub stats
 [![nini4746's GitHub stats](https://raw.githubusercontent.com/nini4746/github-stats/generated/overview.svg)](https://github.com/nini4746/github-stats)

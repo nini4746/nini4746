@@ -7,7 +7,7 @@
 백엔드 및 서버 프로그래밍 개발자를 희망하고 있습니다.
 
 - 🏆 KICS 2025 추계학술대회 논문 게재 (MagNavi - 지자기 실내 측위)
-- 🏆 2025 경상북도 캡스톤디자인 경진대회 우수상
+- 🏆 2025 경상북도 캡스톤디자인 경진대회 최우수상
 
 ## 📊 GitHub stats
 [![nini4746's GitHub stats](https://raw.githubusercontent.com/nini4746/github-stats/generated/overview.svg)](https://github.com/nini4746/github-stats)
